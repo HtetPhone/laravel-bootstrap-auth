@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+//Bootstrap Icons
+@import url('bootstrap-icons');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+
+.alert-msg {
+    transform: translateX(-50%) translateY(10%);
+}
+
+.rp-text:hover {
+    color: #000!important;
+    cursor: pointer;
+}
+
